@@ -7,6 +7,7 @@ namespace Testesercizi
     [TestClass]
     public class TestEsercizi
     {
+
         [TestMethod]
         public void Max1()
         {

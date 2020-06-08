@@ -8,6 +8,7 @@ namespace Esercizi
 {
     public class ClassEsercizi
     {
+
         public static int Max(int num1, int num2) //ESERCIZIO 1 MAX
         {
             if (num1 >= num2)
